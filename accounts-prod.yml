@@ -5,7 +5,7 @@ accounts:
  message: "Welcome to EazyBank accounts related local APIs"
  contactDetails:
   name: "Swati Rathod - Developer -  Prod Lead"
-  email: "swati@eazybank.com"
+  email: "{cipher}57750c8f2f593775a7a685dcb8f902a761cddeebd104e5c7f1dbab59e0e35325f9d0ae4c2cf109e8b20a22d946902d80"
  onCallSupport:
-  - (444) 555-1234
-  - (444) 523-1345
+  - "{cipher}f28f598288377a39c90b760a0dd77afb4a895bebfafd2a0a09f8f1153ba12603"
+  - "{cipher}981a94e99bb206441a258559ae854f9a2039305e3fbac08ec5bd271452e18af2"
