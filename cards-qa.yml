@@ -5,7 +5,7 @@ build:
 cards:
  message: "Welcome to EazyBank Cards Services  QA Env APIs"
  contactDetails:
-  name: "Sachin Jadhav - Developer -  QA Cards Lead"
+  name: "Sachin Jadhav - Developer -   Cards Quality Analysis Lead"
   email: "sachin@eazybank.com"
  onCallSupport:
   - (666) 555-1234
