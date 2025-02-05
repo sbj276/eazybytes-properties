@@ -10,7 +10,7 @@ build:
  version: 1.0
  
 accounts:
- message: "Welcome to EazyBank accounts service related web APIs"
+ message: "Welcome to EazyBank accounts service related Web APIs"
  contactDetails:
   name: "Swati Rathod - Developer -  Prod Lead"
   email: "{cipher}57750c8f2f593775a7a685dcb8f902a761cddeebd104e5c7f1dbab59e0e35325f9d0ae4c2cf109e8b20a22d946902d80"
