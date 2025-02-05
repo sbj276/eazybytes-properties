@@ -1,0 +1,12 @@
+
+build:
+ version: 1.0
+ 
+loans:
+ message: "Welcome to EazyBank loans related PROD APIs"
+ contactDetails:
+  name: "Sachin Jadhav - Developer -  QA Loans Lead"
+  email: "sachin@eazybank.com"
+ onCallSupport:
+  - (444) 555-1234
+  - (444) 523-1345 

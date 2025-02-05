@@ -1,0 +1,12 @@
+
+build:
+ version: 3.0
+ 
+cards:
+ message: "Welcome to EazyBank Cards related PROD APIs"
+ contactDetails:
+  name: "Swati Rathod - Developer -  Cards PROD Lead"
+  email: "swati@eazybank.com"
+ onCallSupport:
+  - (444) 555-1234
+  - (444) 523-1345  
