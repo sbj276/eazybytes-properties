@@ -3,7 +3,7 @@ build:
  version: 2.0
  
 cards:
- message: "Welcome to EazyBank Cards related QA APIs"
+ message: "Welcome to EazyBank Cards Services  QA Env APIs"
  contactDetails:
   name: "Sachin Jadhav - Developer -  QA Cards Lead"
   email: "sachin@eazybank.com"
