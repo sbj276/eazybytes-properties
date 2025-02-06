@@ -4,7 +4,7 @@ build:
 
 spring:
  datasource:
-  password: "root"
+  password: "root1"
 
  
 loans:
