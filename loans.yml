@@ -2,9 +2,9 @@ build:
  version: 1.0
  #SPRING_DATASOURCE_PASSWORD: "root"
 
- spring:
-  datasource:
-   password: "root"
+spring:
+ datasource:
+  password: "root"
 
  
 loans:
